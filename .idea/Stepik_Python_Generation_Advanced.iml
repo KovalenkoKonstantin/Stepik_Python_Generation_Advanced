@@ -7,5 +7,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.13 (Stepik_Python_Generation_Advanced)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Stepik_Python_Generation" />
   </component>
 </module>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Stepik_Python_Generation/.idea/Stepik_Python_Generation.iml" filepath="$PROJECT_DIR$/../Stepik_Python_Generation/.idea/Stepik_Python_Generation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Stepik_Python_Generation_Advanced.iml" filepath="$PROJECT_DIR$/.idea/Stepik_Python_Generation_Advanced.iml" />
     </modules>
   </component>
