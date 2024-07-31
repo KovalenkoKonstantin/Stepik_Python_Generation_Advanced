@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Stepik_Python_Generation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Stepik_Python_Generation/15/tkinter_projects" vcs="Git" />
   </component>
 </project>
