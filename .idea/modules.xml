@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MSSQL_to_MySQL/.idea/MSSQL_to_MySQL.iml" filepath="$PROJECT_DIR$/../MSSQL_to_MySQL/.idea/MSSQL_to_MySQL.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/.idea/PyCharmLearningProject.iml" filepath="$USER_HOME$/AppData/Local/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/.idea/PyCharmLearningProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Generation-a-Course-for-Professionals/.idea/Python-Generation-a-Course-for-Professionals.iml" filepath="$PROJECT_DIR$/../Python-Generation-a-Course-for-Professionals/.idea/Python-Generation-a-Course-for-Professionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Skills-for-Handling-Biological-Data/.idea/Python-Skills-for-Handling-Biological-Data.iml" filepath="$PROJECT_DIR$/../Python-Skills-for-Handling-Biological-Data/.idea/Python-Skills-for-Handling-Biological-Data.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Stepik_Python_Generation/.idea/Stepik_Python_Generation.iml" filepath="$PROJECT_DIR$/../Stepik_Python_Generation/.idea/Stepik_Python_Generation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Stepik_Python_Generation_Advanced.iml" filepath="$PROJECT_DIR$/.idea/Stepik_Python_Generation_Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Write_Correct_Name/.idea/Write_Correct_Name.iml" filepath="$PROJECT_DIR$/../Write_Correct_Name/.idea/Write_Correct_Name.iml" />
     </modules>
   </component>
 </project>

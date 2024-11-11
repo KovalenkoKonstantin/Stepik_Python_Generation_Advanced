@@ -2,7 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MSSQL_to_MySQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Generation-a-Course-for-Professionals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Skills-for-Handling-Biological-Data" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Stepik_Python_Generation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Stepik_Python_Generation/15/tkinter_projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Write_Correct_Name" vcs="Git" />
   </component>
 </project>
