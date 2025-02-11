@@ -7,7 +7,10 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PyCharmLearningProject" />
+    <orderEntry type="module" module-name="Spam Response" />
+    <orderEntry type="module" module-name="Read_Outlook_Spam" />
     <orderEntry type="module" module-name="MSSQL_to_MySQL" />
-    <orderEntry type="module" module-name="Write_Correct_Name" />
+    <orderEntry type="module" module-name="AutoCommit" />
+    <orderEntry type="module" module-name="Valentine_Project" />
   </component>
 </module>

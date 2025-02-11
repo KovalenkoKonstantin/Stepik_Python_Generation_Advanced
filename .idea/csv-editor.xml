@@ -3,7 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\condensed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\data1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -17,10 +31,108 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\deniro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\domain_usage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\exam.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\exam_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\grades.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\name_log.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\new_name_log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\playgrounds.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\products.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\products1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\products2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\products3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\salary_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
@@ -31,7 +143,91 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\student_counts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\students.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\wifi.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\4\writing_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\meetings.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\name_log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\points.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\quarter1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\quarter2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\quarter3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Git\Python-Generation-a-Course-for-Professionals\6\quarter4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\17\data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
